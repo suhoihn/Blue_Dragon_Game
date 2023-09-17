@@ -1,0 +1,6 @@
+house
+juice
+plate
+shield
+shirt
+spoon
